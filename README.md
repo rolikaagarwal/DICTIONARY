@@ -17,7 +17,7 @@
 	git clone https://github.com/<YOUR_GITHUB_USER_NAME>/DICTIONARY.git.
 	```
   
-- Open  `index.html` file and start Live Server.
+- Open  `index.html` file and start Live Server
 <!-- 
 ## Demo
 
